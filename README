@@ -7,3 +7,4 @@ test with signature
 test with improved UI
 test before MR
 test after Sonar issue fix
+test after refactoring
