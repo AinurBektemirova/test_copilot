@@ -10,3 +10,4 @@ test after Sonar issue fix
 test after refactoring
 test negative case
 test sha-1
+test required is false
