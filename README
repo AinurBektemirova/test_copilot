@@ -9,3 +9,4 @@ test before MR
 test after Sonar issue fix
 test after refactoring
 test negative case
+test sha-1
