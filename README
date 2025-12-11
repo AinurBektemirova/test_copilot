@@ -12,3 +12,4 @@ test negative case
 test sha-1
 test required is false
 test without sha
+test with Maria
